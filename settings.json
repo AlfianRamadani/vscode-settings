@@ -5,16 +5,16 @@
     "editor.fontSize": 16,
     "workbench.activityBar.location": "hidden",
     "workbench.statusBar.visible": false,
-    "window.menuBarVisibility": "hidden",
     "editor.lineHeight": 3,  
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorStyle": "line",
     "editor.cursorWidth": 5,
     "editor.cursorSurroundingLines": 10,
-    "workbench.editor.limit.enabled": true,
+
     //How to make the sidebar when opened not minimize the editor but be in front of the editor, so the editor is not minimized
     "workbench.sideBar.openSideBySideDirection": "right",
+    "workbench.editor.closeEmptyGroups": false,
     "workbench.iconTheme": "material-icon-theme",
     "editor.quickSuggestions": {
         "other": true,
@@ -31,13 +31,5 @@
     "[javascriptreact]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
-    
-
-    
-    
- 
-
- 
-
     
 }
