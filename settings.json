@@ -3,9 +3,6 @@
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
-    "workbench.editor.showTabs": "single",
-    "workbench.editor.enablePreview": false,
-    "workbench.editor.enablePreviewFromQuickOpen": false,
     "workbench.activityBar.location": "hidden",
     "workbench.statusBar.visible": false,
     "window.menuBarVisibility": "hidden",
@@ -16,18 +13,14 @@
     "editor.cursorWidth": 5,
     "editor.cursorSurroundingLines": 10,
     "workbench.editor.limit.enabled": true,
-    "workbench.editor.limit.value": 2,
-    "editor.minimap.enabled": false,
     //How to make the sidebar when opened not minimize the editor but be in front of the editor, so the editor is not minimized
     "workbench.sideBar.openSideBySideDirection": "right",
-    "workbench.editor.closeEmptyGroups": false,
     "workbench.iconTheme": "material-icon-theme",
     "editor.quickSuggestions": {
         "other": true,
         "comments": false,
         "strings": false
     },
-    "files.autoSave": "onFocusChange",
     "outline" : {
         "problems.enabled": false
     },
